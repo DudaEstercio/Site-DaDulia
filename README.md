@@ -32,6 +32,10 @@
         <img src="pastel carne.jpg"; class="coisa">
         <li><a href="pastel.html" target="_blank"> Pastel </a></li>
         </p>
+         <p> 
+        <img src= "dog.jpg"; class="coisa">
+        <li><a href="doghot.html" target="_blank"> Cachorro quente </a></li>
+        </p>
         <img src="tilapia.jpg"; class="coisa">
         <li><a href="croissant.html" target="_blank"> Croissant </a></li>
         <p>
@@ -49,6 +53,18 @@
             <p>
         <img src= "docc.jpg"; class="coisa">
         <li><a href="doces.html" target="_blank"> Doces </a></li>
+        </p>
+        <p> 
+        <img src= "chocobone.jpg"; class="coisa">
+        <li><a href="milkshakes.html" target="_blank"> Milk-shakes </a></li>
+        </p>
+         <p> 
+        <img src= "succ.jpg"; class="coisa">
+        <li><a href="refrescos.html" target="_blank"> Refrescos </a></li>
+        </p>
+         <p> 
+        <img src= "chocobone.jpg"; class="coisa">
+        <li><a href=".html" target="_blank"> Milk-shakes </a></li>
         </p>
         </p>
     </div>
